@@ -1,3 +1,4 @@
+-- 1drop checktable 
 --drop checkTableExists
 	drop  FUNCTION checkTableExists(
 		p_tablename character varying);
